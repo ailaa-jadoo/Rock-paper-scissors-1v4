@@ -27,19 +27,19 @@ const randomizer = () => {
 const Players = [
     {
         name: 'player1',
-        step: '' // 0-> rock, 1-> paper, 2-> scissors
+        step: '' // rock, paper, scissors
     },
     {
         name: 'player2',
-        step: ''
+        step: '' // rock, paper, scissors
     },
     {
         name: 'player3',
-        step: ''
+        step: '' // rock, paper, scissors
     },
     {
         name: 'player4',
-        step: ''
+        step: '' // rock, paper, scissors
     }
 ]
 

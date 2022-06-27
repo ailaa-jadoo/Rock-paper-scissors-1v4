@@ -1,0 +1,24 @@
+{
+  "name": "rock-paper-scissors-1v4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ailaa-jadoo/Rock-paper-scissors-1v4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ailaa-jadoo/Rock-paper-scissors-1v4/issues"
+  },
+  "homepage": "https://github.com/ailaa-jadoo/Rock-paper-scissors-1v4#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.18"
+  }
+}
